@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iMovie</string>
+    <string name="filme">filme</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastro_1">Cadastre-se</string>
+    <string name="cadastro">Criar uma conta</string>
+    <string name="menu">Menu</string>
+    <string name="meus_filmes">Meus Filmes</string>
+    <string name="sair">Sair</string>
+</resources>
